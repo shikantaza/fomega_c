@@ -1,0 +1,13 @@
+To build the interpreter:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Run the provided 'build.sh' shell command
+
+Before running the command, ensure that the Boehm Garbage Collector library location is specified in the INCLUDE and LIB paths.
+
+Prerequisites:
+~~~~~~~~~~~~~~
+
+* Boehm Garbage Collector
+* Flex
+* Bison
